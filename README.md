@@ -24,3 +24,7 @@ npm install reflect-metadata --save
 ```
 npm install @types/node --save-dev
 ```
+
+```
+npm install oracledb --save
+```
