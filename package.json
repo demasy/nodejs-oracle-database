@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/demasy/NodeJS-RESTful-APIs/issues"
   },
-  "homepage": "https://github.com/demasy/NodeJS-RESTful-APIs#readme"
+  "homepage": "https://github.com/demasy/NodeJS-RESTful-APIs#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
