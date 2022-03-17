@@ -2,7 +2,7 @@
   "name": "nodejs-restful-apis",
   "version": "1.0.0",
   "description": "This is my experiment to build RESTful APIs using NodeJS, Typescript, TypeORM, Oracle database.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
