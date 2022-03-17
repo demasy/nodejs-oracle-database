@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-restful-apis",
+  "version": "1.0.0",
+  "description": "This is my experiment to build RESTful APIs using NodeJS, Typescript, TypeORM, Oracle database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demasy/NodeJS-RESTful-APIs.git"
+  },
+  "keywords": [],
+  "author": "Ahmed El-Demasy <ceo@egyptianprogrammers.com> (https://github.com/demasy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demasy/NodeJS-RESTful-APIs/issues"
+  },
+  "homepage": "https://github.com/demasy/NodeJS-RESTful-APIs#readme"
+}
