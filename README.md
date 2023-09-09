@@ -32,3 +32,7 @@ npm install oracledb --save
 ```
 typeorm init
 ```
+
+```
+npm install --save sequelize
+```
