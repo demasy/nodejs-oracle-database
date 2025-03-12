@@ -20,16 +20,16 @@
   },
   "homepage": "https://github.com/demasy/NodeJS-RESTful-APIs#readme",
   "devDependencies": {
-    "@types/node": "^16.11.10",
-    "ts-node": "10.4.0",
-    "typescript": "4.5.2"
+    "@types/node": "^22.13.10",
+    "ts-node": "10.9.2",
+    "typescript": "5.8.2"
   },
   "dependencies": {
-    "oracledb": "^5.5.0",
-    "pg": "^8.4.0",
-    "reflect-metadata": "^0.1.13",
-    "sequelize": "^6.33.0",
-    "sequelize-cli": "^6.6.1",
-    "typeorm": "^0.3.17"
+    "oracledb": "^6.8.0",
+    "pg": "^8.14.0",
+    "reflect-metadata": "^0.2.2",
+    "sequelize": "^6.37.6",
+    "sequelize-cli": "^6.6.2",
+    "typeorm": "^0.3.21"
   }
 }
